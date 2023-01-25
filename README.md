@@ -1,4 +1,4 @@
-### My Stats and Stacks 🔭
+### My Stacks 🔭
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" width="40%" />
 
@@ -18,6 +18,8 @@
   <img align="center" alt="NodeJs" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
+
+### My Stats 🔭
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabGalera&count_private=true&hide=contribs,issues&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
