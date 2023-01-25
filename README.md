@@ -1,6 +1,6 @@
 ### My Stacks 🔭
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" width="45%" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" width="43%" />
 
 <div align=left><br>
   <img align="center" alt="Git" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
