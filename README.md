@@ -4,7 +4,7 @@
   My name is Gabriel, and I graduated in economics and started my path in programming at university. Right now, I'm a full-stack developer student. If you ask me why I've decided to change my carrier, I would answer that it is because I enjoy being close to technology and dynamic environments and that now that I am in the development area, I feel much better about myself.
  </div>
 
-If you want to talk more about this, <strong>send me a message<strong>! https://www.linkedin.com/in/gabriel-galera/?locale=en_US
+If you want to talk more about this and other kinds of stuffs, <strong>send me a message<strong>! https://www.linkedin.com/in/gabriel-galera/?locale=en_US
 
 ### My Stacks 🔭
 
