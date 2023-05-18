@@ -27,9 +27,6 @@ If you want to talk more about this and other kinds of stuffs, <strong>send me a
   <img align="center" alt="Docker" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
 
-### My Stats 🔭
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabGalera&count_private=true&hide=contribs,issues&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gabGalera/gabGalera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
