@@ -17,14 +17,20 @@ If you want to talk more about this and other kinds of stuffs, <strong>send me a
   <img align="center" alt="Css" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <br>
   <img align="center" alt="JavaScript" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Sass" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="React" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="TypeScript" width="8%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="NodeJs" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Java" width="8%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg">
+  <br>
+ 
+  <img align="center" alt="Express" width="8%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Spring" width="8%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg">  
+   <img align="center" alt="React" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Redux" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <br>
   <img align="center" alt="Jest" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="MySql" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="NodeJs" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Docker" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Docker" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">  
+  <img align="center" alt="MongoDB" width="8%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-plain.svg">
 </div>
 
 
